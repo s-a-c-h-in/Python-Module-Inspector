@@ -241,10 +241,6 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 - Documentation improvements
 - Performance optimizations
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 Built using Python's powerful introspection capabilities:
