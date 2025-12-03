@@ -33,7 +33,7 @@ This repository contains three distinct module inspectors:
 
 #### 2. Enhanced Module Inspector
 - AST-based connection detection
-- Bidirectional relationship mapping (USES/USED BY)
+- Relationship mapping (USES/USED BY)
 - Type hint extraction and analysis
 - Inheritance tree visualization
 - Dependency graph generation
