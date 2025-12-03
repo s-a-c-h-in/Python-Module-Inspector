@@ -56,7 +56,7 @@ This repository contains three distinct module inspectors:
 
 ### Setup
 ```bash
-git clone https://github.com/yourusername/python-module-inspector.git
+git clone https://github.com/s-a-c-h-in/python-module-inspector.git
 cd python-module-inspector
 ```
 
